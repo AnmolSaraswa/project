@@ -1,0 +1,28 @@
+body
+{
+    background-image:url("c.webp");
+}
+h4:hover{
+    font-family:Blackadder ITC;
+    font-style:italic;
+}
+h3:hover{
+    font-family:Lucida Console;
+    font-style:italic;
+}
+h1:hover{
+    font-family:Engravers MT;
+    font-style:italic;
+}
+.copy_right_footer
+{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+
+body:hover
+{
+    background-image:url("d.webp");
+}
